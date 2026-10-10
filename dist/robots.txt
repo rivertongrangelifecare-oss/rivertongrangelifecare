@@ -1,5 +1,0 @@
-# Robots.txt for Riverton Grange Lifecare
-User-agent: *
-Allow: /
-
-Sitemap: https://rivertongrange.co.nz/sitemap.xml
